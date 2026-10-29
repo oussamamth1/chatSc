@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "267632933517",
+    "firebase_url": "https://tmspro-e42d7-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "tmspro-e42d7",
+    "storage_bucket": "tmspro-e42d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267632933517:android:909f202d319f0875bc40c4",
+        "android_client_info": {
+          "package_name": "com.example.tms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267632933517-d551cnnmb06vksnfhh369qq112ajharb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsGCJvvRJONnTn0vZnLGbbCRnl50GPoDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267632933517-d551cnnmb06vksnfhh369qq112ajharb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "267632933517-5m86uommu6de2jonvdev299h1jmtorio.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zenifytrip.aiFitnessCoach"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267632933517:android:ba3221989cdfa353bc40c4",
+        "android_client_info": {
+          "package_name": "com.oussama.yt_downloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267632933517-d551cnnmb06vksnfhh369qq112ajharb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsGCJvvRJONnTn0vZnLGbbCRnl50GPoDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267632933517-d551cnnmb06vksnfhh369qq112ajharb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "267632933517-5m86uommu6de2jonvdev299h1jmtorio.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zenifytrip.aiFitnessCoach"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267632933517:android:d3c3fa732093a5c9bc40c4",
+        "android_client_info": {
+          "package_name": "com.zenifytrip.ai_fitness_coach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267632933517-d551cnnmb06vksnfhh369qq112ajharb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsGCJvvRJONnTn0vZnLGbbCRnl50GPoDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267632933517-d551cnnmb06vksnfhh369qq112ajharb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "267632933517-5m86uommu6de2jonvdev299h1jmtorio.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zenifytrip.aiFitnessCoach"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
